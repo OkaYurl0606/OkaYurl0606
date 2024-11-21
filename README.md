@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OkaYurl0606
 - 👀 I’m interested in Maschine Learning and Deep Learning.
-- 🌱 I’m currently learning at the Rayinkov's AI School.
+- 🌱 I’m currently learning at the Razinkov's AI School.
 - 💞
 
 <!---
